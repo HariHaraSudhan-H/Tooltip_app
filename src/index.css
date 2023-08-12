@@ -18,7 +18,7 @@ code {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .logo{
   width: 5rem;
@@ -30,7 +30,8 @@ code {
   text-align: center;
 }
 .main{
-  background-color: black;
+  /* background-color: black; */
+  background: linear-gradient(145deg,black,maroon);
   height: 50vh;
   margin: 10% 20%;
   width: 60%;
