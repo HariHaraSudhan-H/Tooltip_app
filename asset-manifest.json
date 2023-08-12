@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Tooltip_app/static/css/main.45d2fc9c.css",
-    "main.js": "/Tooltip_app/static/js/main.f5bb249f.js",
+    "main.js": "/Tooltip_app/static/js/main.386173e0.js",
     "index.html": "/Tooltip_app/index.html",
     "main.45d2fc9c.css.map": "/Tooltip_app/static/css/main.45d2fc9c.css.map",
-    "main.f5bb249f.js.map": "/Tooltip_app/static/js/main.f5bb249f.js.map"
+    "main.386173e0.js.map": "/Tooltip_app/static/js/main.386173e0.js.map"
   },
   "entrypoints": [
     "static/css/main.45d2fc9c.css",
-    "static/js/main.f5bb249f.js"
+    "static/js/main.386173e0.js"
   ]
 }
