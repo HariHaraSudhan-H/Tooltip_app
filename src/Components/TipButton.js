@@ -61,7 +61,7 @@ const TipButton = (props) => {
           handleHover(false);
         }}
       >
-        {tipDisplay ? "See your tip!!!" : "Hover to see Tip"}{" "}
+        {tipDisplay ? "See your tip in given position!!!" : "Hover to see Tip"}{" "}
       </span>
       <span
         className="hoverContent"
